@@ -15,7 +15,7 @@ PriceAmazonizer is a sophisticated, feature-rich, full-stack web scraping web ap
 - **MongoDB**
 - **BrightData**
 
-# Demo:
+# Preview:
 
 ![image](https://github.com/SurajPratap10/priceamazonizer/assets/92919173/55fceca1-9ad7-408a-87ff-0ce174a80744)
 
