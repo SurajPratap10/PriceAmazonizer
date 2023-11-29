@@ -18,7 +18,7 @@ export async function GET(request: Request) {
 
     if (!products) throw new Error("No product fetched");
 
-    // 1) SCRAPE LATEST PRODUCT DETAILS & UPDATE DB:
+    // ======================== 1 SCRAPE LATEST PRODUCT DETAILS & UPDATE DB
     const updatedProducts = await Promise.all(
       products.map(async (currentProduct) => {
         // Scrape product
@@ -49,7 +49,7 @@ export async function GET(request: Request) {
           product
         );
 
-        // 2) CHECK EACH PRODUCT'S STATUS & SEND EMAIL ACCORDINGLY:
+        // ======================== 2 CHECK EACH PRODUCT'S STATUS & SEND EMAIL ACCORDINGLY
         const emailNotifType = getEmailNotifType(
           scrapedProduct,
           currentProduct
@@ -80,10 +80,3 @@ export async function GET(request: Request) {
     throw new Error(`Failed to get all products: ${error.message}`);
   }
 }
-
-
-
-
-
-
-
