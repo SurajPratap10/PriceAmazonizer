@@ -17,6 +17,7 @@ PriceAmazonizer is a sophisticated, feature-rich, full-stack web scraping web ap
 
 # Preview:
 
+### Video Link: https://www.youtube.com/watch?v=DAFmpbeQuS8
 ![image](https://github.com/SurajPratap10/priceamazonizer/assets/92919173/55fceca1-9ad7-408a-87ff-0ce174a80744)
 
 ![image](https://github.com/SurajPratap10/priceamazonizer/assets/92919173/c68ce0e6-286f-42ff-a160-0a3a21c218e3)
