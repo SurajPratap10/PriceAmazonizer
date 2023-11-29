@@ -1,1 +1,1 @@
-# priceamazonizer
+# PriceAmazonizer
