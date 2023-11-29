@@ -14,6 +14,7 @@ PriceAmazonizer is a sophisticated, feature-rich, full-stack web scraping web ap
 - **Next.js**
 - **MongoDB**
 - **BrightData**
+- **Cron-job**
 
 # Links:
 - **Live Site: https://priceamazonizer.vercel.app/**
