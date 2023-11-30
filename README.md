@@ -1,6 +1,6 @@
 # PriceAmazonizer 
 
-PriceAmazonizer is a sophisticated, feature-rich, full-stack web scraping web application meticulously crafted using cutting-edge technologies, including TypeScript, Next.js, MongoDB, and BrightData. The primary objective of this project is to empower users by providing them with in-depth and valuable insights into Amazon product prices, thereby ensuring that they consistently secure the best deals in the highly dynamic e-commerce landscape.
+**PriceAmazonizer** is a sophisticated, feature-rich, full-stack web scraping web application meticulously crafted using cutting-edge technologies, including TypeScript, Next.js, MongoDB, and BrightData. The primary objective of this project is to empower users by providing them with in-depth and valuable insights into Amazon product prices, thereby ensuring that they consistently secure the best deals in the highly dynamic e-commerce landscape.
 
 ## Features:
 
